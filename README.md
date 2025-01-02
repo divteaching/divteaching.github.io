@@ -1,1 +1,0 @@
-# divteaching.github.io
