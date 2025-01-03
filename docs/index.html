@@ -10,15 +10,6 @@
 <body>
     <header>
         <h1>Course Name</h1>
-        <nav>
-            <ul>
-                <li><a href="#description">Description</a></li>
-                <li><a href="#instructor">Instructor</a></li>
-                <li><a href="#syllabus">Syllabus</a></li>
-                <li><a href="#schedule">Schedule</a></li>
-                <li><a href="#assignments">Assignments</a></li>
-            </ul>
-        </nav>
     </header>
 
     <section id="description">
@@ -29,39 +20,10 @@
     <section id="instructor">
         <h2>Instructor</h2>
         <p><strong>Instructor Name:</strong> Dr. Jane Doe</p>
-        <p><strong>Email:</strong> jane.doe@example.com</p>
+        <p><strong>Email:</strong> <a href="mailto:jane.doe@example.com" target="_blank">jane.doe@example.com</a></p>
         <p><strong>Office Hours:</strong> Mondays 2-4 PM, Room 123</p>
-    </section>
-
-    <section id="syllabus">
-        <h2>Syllabus</h2>
-        <p>The syllabus contains all the details about the course structure, grading policies, and important dates. Please review it carefully to understand the course expectations.</p>
-        <a href="syllabus.pdf" download>Download the Syllabus</a>
-    </section>
-
-    <section id="schedule">
-        <h2>Schedule</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Week</th>
-                    <th>Topic</th>
-                    <th>Slides</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td>Introduction to the Course</td>
-                    <td><a href="week1-slides.pdf" download>Download</a></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td>Advanced Concepts</td>
-                    <td><a href="week2-slides.pdf" download>Download</a></td>
-                </tr>
-            </tbody>
-        </table>
+        <p><strong>Syllabus:</strong> <a href="syllabus.pdf" target="_blank">Syllabus</a></p>
+        <p><strong>Class Discord:</strong> <a href="https://discord.gg/mZvpete3" target="_blank">https://discord.gg/mZvpete3</a></p>
     </section>
 
     <section id="assignments">
@@ -71,22 +33,91 @@
                 <tr>
                     <th>Assignment</th>
                     <th>Due Date</th>
-                    <th>Description</th>
-                    <th>Other Files</th>
+                    <th>Files</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>Homework 1</td>
                     <td>2025-01-15</td>
-                    <td>Introduction exercises</td>
-                    <td><a href="hw1-files.zip" download>Download</a></td>
+                    <td>
+                        <a href="hw1-description.pdf" download target="_blank">Assignment Description</a> | 
+                        <a href="https://github.com/example/hw1-template" target="_blank">GitHub Repo</a>
+                    </td>
                 </tr>
                 <tr>
                     <td>Project Proposal</td>
                     <td>2025-02-01</td>
-                    <td>Submit your group project proposal</td>
-                    <td><a href="proposal-template.docx" download>Download</a></td>
+                    <td>
+                        <a href="proposal-description.pdf" download target="_blank">Assignment Description</a> | 
+                        <a href="https://github.com/example/proposal-template" target="_blank">GitHub Repo</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+
+    <section id="schedule">
+        <h2>Schedule</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Lecture</th>
+                    <th>Topic</th>
+                    <th>Files</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="3">1</td>
+                    <td>Lecture 1</td>
+                    <td>Introduction to the Course</td>
+                    <td>
+                        <a href="week1-lecture1-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week1-lecture1-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Lecture 2</td>
+                    <td>Course Overview</td>
+                    <td>
+                        <a href="week1-lecture2-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week1-lecture2-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Lecture 3</td>
+                    <td>Key Tools and Setup</td>
+                    <td>
+                        <a href="week1-lecture3-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week1-lecture3-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td rowspan="3">2</td>
+                    <td>Lecture 1</td>
+                    <td>Advanced Concepts: Part 1</td>
+                    <td>
+                        <a href="week2-lecture1-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week2-lecture1-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Lecture 2</td>
+                    <td>Advanced Concepts: Part 2</td>
+                    <td>
+                        <a href="week2-lecture2-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week2-lecture2-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Lecture 3</td>
+                    <td>Discussion and Exercises</td>
+                    <td>
+                        <a href="week2-lecture3-slides.pdf" download target="_blank">Slides</a> | 
+                        <a href="week2-lecture3-recording.mp4" download target="_blank">Lecture Recording</a>
+                    </td>
                 </tr>
             </tbody>
         </table>
