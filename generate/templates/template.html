@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{ course.code }}</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>{{ course.code }}: {{ course.title }}</h1>
+        <p>{{ course.institution }}</p>
+    </header>
+
+    <section id="description">
+        <h2>Course Description</h2>
+        <p>
+            {% for curr_line in course.description %}
+                {{ curr_line }}
+                {% if not loop.last %}
+                    <br><br>
+                {% endif %}
+            {% endfor %}
+        </p>
+    </section>
+
+    <section id="instructor">
+        <h2>Instructor</h2>
+        <p><strong>Instructor Name:</strong> {{ course.instructor }}</p>
+        <p><strong>Email:</strong> <a href="mailto:{{ course.instructor_email }}" target="_blank">{{ course.instructor_email }}</a></p>
+        <p><strong>Office Hours:</strong> {{ course.instructor_office_hours }}</p>
+        <p><strong>Syllabus:</strong> <a href="{{ course.syllabus_path }}" target="_blank">Syllabus</a></p>
+        <p><strong>Class Discord:</strong> <a href="{{ course.discord_link }}" target="_blank">{{ course.discord_link }}</a></p>
+    </section>
+
+    <section id="assignments">
+        <h2>Assignments</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Assignment</th>
+                    <th>Due Date</th>
+                    <th>Files</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for curr_assignment in course.assignments %}
+                    <tr>
+                        <td>{{ curr_assignment.title }}</td>
+                        <td>{{ curr_assignment.due_date }}</td>
+                        <td>
+                            {% if not curr_assignment.slides_link %}
+                                <a href="{{ course.description_link }}" download target="_blank">Assignment Description</a>
+                            {% endif %}
+                            {% if not curr_assignment.github_repo_link %}
+                                | <a href="{{ course.github_repo_link }}" target="_blank">GitHub Repo</a>
+                            {% endif %}
+                            {% if not curr_assignment.slides_link and not curr_assignment.github_repo_link %}
+                                -
+                            {% endif %}
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <section id="schedule">
+        <h2>Schedule</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Lecture</th>
+                    <th>Topic</th>
+                    <th>Files</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% set curr_week = namespace(value=1) %}
+                {% for curr_lecture in course.schedule %}
+                    <tr>
+                        {% if loop.index0 % 3 == 0 %}
+                            <td rowspan="3">{{ curr_week.value }}</td>
+                            {% set curr_week.value = curr_week.value + 1 %}
+                        {% endif %}
+                        <td>{{ curr_lecture.lecture_tag }}</td>
+                        <td>{{ curr_lecture.lecture_title }}</td>
+                        <td>
+                            <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a> |
+                            {% if curr_lecture.lecture_recording %}
+                                <a href="{{ curr_lecture.lecture_recording }}" download target="_blank">Lecture Recording</a>
+                            {% else %}
+                                <p style="display: inline;">Lecture Recording</p>
+                            {% endif %}
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <footer>
+        <p>&copy; {{ course.year_offered }} {{ course.institution }}. All rights reserved.</p>
+    </footer>
+</body>
+</html>
