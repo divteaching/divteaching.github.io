@@ -1,0 +1,241 @@
+{
+    "course": {
+        "code": "ECS 198F",
+        "title": "The Software Developer's Toolkit",
+        "institution": "University of California, Davis",
+        "description": [
+            "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines.",
+            "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines.",
+            "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines."
+        ],
+        "year_offered": "2025",
+        "instructor": "Divyansh Rajesh Jain, advised by Professor Siena Saltzen",
+        "instructor_email": "drajeshjain@ucdavis.edu",
+        "instructor_office_hours": "TBD",
+        "syllabus_path": "syllabus.pdf",
+        "discord_link": "https://discord.gg/mZvpete3",
+        "assignments": [
+            {
+                "title": "Homework 1",
+                "due_date": "2025-01-15",
+                "description_link": "hw1-description.pdf",
+                "github_repo_link": "https://github.com/example/hw1-template"
+            },
+            {
+                "title": "Homework 2",
+                "due_date": "2025-01-15",
+                "description_link": "hw1-description.pdf",
+                "github_repo_link": "https://github.com/example/hw1-template"
+            },
+            {
+                "title": "Homework 3",
+                "due_date": "2025-01-15",
+                "description_link": "hw1-description.pdf",
+                "github_repo_link": "https://github.com/example/hw1-template"
+            },
+            {
+                "title": "Homework 4",
+                "due_date": "2025-01-15",
+                "description_link": "hw1-description.pdf",
+                "github_repo_link": "https://github.com/example/hw1-template"
+            },
+            {
+                "title": "Final Group Project",
+                "due_date": "2025-01-15",
+                "description_link": "hw1-description.pdf",
+                "github_repo_link": "https://github.com/example/hw1-template"
+            }
+        ],
+        "schedule": [
+            {
+                "lecture_tag": "Lecture 1",
+                "lecture_title": "Introduction",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 2",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 3",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 4",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 5",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 6",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Holiday",
+                "lecture_title": "Martin Luther King, Jr.",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 7",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 8",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 9",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 10",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 11",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 12",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 13",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 14",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 15",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 16",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 17",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Holiday",
+                "lecture_title": "President's Day",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 18",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 19",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 20",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 21",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 22",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 23",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 24",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 25",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 26",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 27",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 28",
+                "lecture_title": "Put Title Here",
+                "slides_link": "week1-lecture1-slides.pdf",
+                "lecture_recording": ""
+            }
+        ]
+    }
+}
