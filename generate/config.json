@@ -5,8 +5,8 @@
         "institution": "University of California, Davis",
         "description": [
             "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines.",
-            "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines.",
-            "This course equips students with the practical skills needed for modern software development and effective teamwork. It covers essential tools and practices, including version control with Git, coding standards, containerization with Docker, unit testing, and implementing CI/CD pipelines."
+            "Through hands-on assignments and a quarter-long group project, students will gain experience in developing software collaboratively while applying real-world engineering practices. Guest lectures from industry professionals will provide insights into modern trends and best practices in software development.",
+            "By the end of the course, students will have a solid foundation in collaborative workflows and the tools used in professional software engineering environments."
         ],
         "year_offered": "2025",
         "instructor": "Divyansh Rajesh Jain, advised by Professor Siena Saltzen",

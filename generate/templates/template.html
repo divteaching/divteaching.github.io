@@ -50,11 +50,11 @@
                         <td>{{ curr_assignment.title }}</td>
                         <td>{{ curr_assignment.due_date }}</td>
                         <td>
-                            {% if not curr_assignment.slides_link %}
-                                <a href="{{ course.description_link }}" download target="_blank">Assignment Description</a>
+                            {% if curr_assignment.description_link %}
+                                <a href="{{ curr_assignment.description_link }}" download target="_blank">Assignment Description</a>
                             {% endif %}
-                            {% if not curr_assignment.github_repo_link %}
-                                | <a href="{{ course.github_repo_link }}" target="_blank">GitHub Repo</a>
+                            {% if curr_assignment.github_repo_link %}
+                                | <a href="{{ curr_assignment.github_repo_link }}" target="_blank">GitHub Repo</a>
                             {% endif %}
                             {% if not curr_assignment.slides_link and not curr_assignment.github_repo_link %}
                                 -
@@ -88,12 +88,17 @@
                         <td>{{ curr_lecture.lecture_tag }}</td>
                         <td>{{ curr_lecture.lecture_title }}</td>
                         <td>
-                            <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a> |
-                            {% if curr_lecture.lecture_recording %}
-                                <a href="{{ curr_lecture.lecture_recording }}" download target="_blank">Lecture Recording</a>
+                            {% if not curr_lecture.lecture_recording and not curr_lecture.slides_link %}
+                                -
                             {% else %}
-                                <p style="display: inline;">Lecture Recording</p>
+                                <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a> |
+                                {% if curr_lecture.lecture_recording %}
+                                    <a href="{{ curr_lecture.lecture_recording }}" download target="_blank">Lecture Recording</a>
+                                {% else %}
+                                    <p style="display: inline;">Lecture Recording</p>
+                                {% endif %}
                             {% endif %}
+                            
                         </td>
                     </tr>
                 {% endfor %}
