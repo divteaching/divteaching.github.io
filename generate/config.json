@@ -41,9 +41,9 @@
             },
             {
                 "title": "Final Group Project",
-                "due_date": "2025-01-15",
-                "description_link": "hw1-description.pdf",
-                "github_repo_link": "https://github.com/example/hw1-template"
+                "due_date": "2025-03-21 11:59 PM",
+                "description_link": "assignments/final_project.pdf",
+                "github_repo_link": "https://github.com/divteaching/ecs198f_final_project_template/"
             }
         ],
         "schedule": [
