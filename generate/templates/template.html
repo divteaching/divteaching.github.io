@@ -88,10 +88,15 @@
                         <td>{{ curr_lecture.lecture_tag }}</td>
                         <td>{{ curr_lecture.lecture_title }}</td>
                         <td>
-                            {% if not curr_lecture.lecture_recording and not curr_lecture.slides_link %}
+                            {% if curr_lecture.is_holiday %}
                                 -
                             {% else %}
-                                <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a> |
+                                {% if curr_lecture.slides_link %}
+                                    <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a>
+                                {% else %}
+                                    <p style="display: inline;">Slides</p>
+                                {% endif %}
+                                |
                                 {% if curr_lecture.lecture_recording %}
                                     <a href="{{ curr_lecture.lecture_recording }}" download target="_blank">Lecture Recording</a>
                                 {% else %}
