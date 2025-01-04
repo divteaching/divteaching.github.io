@@ -51,7 +51,7 @@
                         <td>{{ curr_assignment.due_date }}</td>
                         <td>
                             {% if curr_assignment.description_link %}
-                                <a href="{{ curr_assignment.description_link }}" download target="_blank">Assignment Description</a>
+                                <a href="{{ curr_assignment.description_link }}" target="_blank">Assignment Description</a>
                             {% endif %}
                             {% if curr_assignment.github_repo_link %}
                                 | <a href="{{ curr_assignment.github_repo_link }}" target="_blank">GitHub Repo</a>
