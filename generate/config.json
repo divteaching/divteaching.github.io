@@ -18,20 +18,20 @@
             {
                 "title": "Homework 1",
                 "due_date": "01/19/2025 11:59 PM",
-                "description_link": "hw1-description.pdf",
-                "github_repo_link": "https://github.com/example/hw1-template"
+                "description_link": "assignments/hw1/hw1.pdf",
+                "github_repo_link": "https://github.com/divteaching/ecs198f_hw1_template"
             },
             {
                 "title": "Homework 2",
                 "due_date": "02/02/2025 11:59 PM",
-                "description_link": "hw1-description.pdf",
-                "github_repo_link": "https://github.com/example/hw1-template"
+                "description_link": "assignments/hw2/hw2.pdf",
+                "github_repo_link": "https://github.com/divteaching/ecs198f_hw2_template"
             },
             {
                 "title": "Homework 3",
                 "due_date": "03/02/2025 11:59 PM",
-                "description_link": "hw1-description.pdf",
-                "github_repo_link": "https://github.com/example/hw1-template"
+                "description_link": "assignments/hw3/hw3.pdf",
+                "github_repo_link": "https://github.com/divteaching/ecs198f_hw3_template"
             },
             {
                 "title": "Final Group Project",
