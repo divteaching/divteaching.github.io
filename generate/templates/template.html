@@ -92,13 +92,13 @@
                                 -
                             {% else %}
                                 {% if curr_lecture.slides_link %}
-                                    <a href="{{ curr_lecture.slides_link }}" download target="_blank">Slides</a>
+                                    <a href="{{ curr_lecture.slides_link }}" target="_blank">Slides</a>
                                 {% else %}
                                     <p style="display: inline;">Slides</p>
                                 {% endif %}
                                 |
                                 {% if curr_lecture.lecture_recording %}
-                                    <a href="{{ curr_lecture.lecture_recording }}" download target="_blank">Lecture Recording</a>
+                                    <a href="{{ curr_lecture.lecture_recording }}" target="_blank">Lecture Recording</a>
                                 {% else %}
                                     <p style="display: inline;">Lecture Recording</p>
                                 {% endif %}
