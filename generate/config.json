@@ -63,8 +63,8 @@
             {
                 "lecture_tag": "Lecture 4",
                 "lecture_title": "Unix and Developer Tools",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_4.pdf",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/JD9aChmHPiRDTP9WxZFeI9ObVzwEnxUuyTw9s4FPWXMKJjjJeHaEk3DcFhDDGsKm.fv74K71Csvn-LaR0?startTime=1736817025000"
             },
             {
                 "lecture_tag": "Lecture 5",
