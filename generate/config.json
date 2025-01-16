@@ -69,8 +69,8 @@
             {
                 "lecture_tag": "Lecture 5",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_5.pdf",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/GCXKAE5klBBqAOb1jPgfgVZTfpsURUhgrULl0vYw0D-VsBasL57LyDdhbhFQWLQs.mfMK1T-qjcswcPB4?startTime=1736989813000"
             },
             {
                 "lecture_tag": "Lecture 6",
