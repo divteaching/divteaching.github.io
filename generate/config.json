@@ -88,7 +88,7 @@
             },
             {
                 "lecture_tag": "Lecture 7",
-                "lecture_title": "Containerization and Docker",
+                "lecture_title": "No Class",
                 "slides_link": "",
                 "lecture_recording": ""
             },
@@ -139,19 +139,19 @@
 
             {
                 "lecture_tag": "Lecture 15",
-                "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": ""
+                "lecture_title": "Structured Design and Development",
+                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/mYKsGpHl_PlpeqwLR252lRPL4qFr9ptt-LbvgO8BzY1Ux64A1VHboMleGMlgw7dP.6fcQc8IJ1SXGMt5j?startTime=1739236242000"
             },
             {
                 "lecture_tag": "Lecture 16",
-                "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": ""
+                "lecture_title": "Structured Design and Development",
+                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/QjwzaNJgpVRXq94RoOpn4QkeNCzXNgA-qHVSkUiKPaKP9EMO9NUGfHyKXIxN5UPL.1AJFjHUQ5O36Xi9y?startTime=1739409012000"
             },
             {
                 "lecture_tag": "Lecture 17",
-                "lecture_title": "Quality Assurance and Automated Testing",
+                "lecture_title": "No Class",
                 "slides_link": "",
                 "lecture_recording": ""
             },
