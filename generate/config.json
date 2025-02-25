@@ -166,21 +166,21 @@
             {
                 "lecture_tag": "Lecture 18",
                 "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_18.pdf",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/vr7kvMljGoEcFhweKtX4KCwGCOTUfdbbN15Z5jrlSxmh4XOqol0Ngsg8dGlm6n5e.lK503pf5SiJT4cNX?startTime=1740013821000"
             },
             {
                 "lecture_tag": "Lecture 19",
                 "lecture_title": "Quality Assurance and Automated Testing",
                 "slides_link": "",
-                "lecture_recording": ""
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/nWcGQzLW3xy6NND9VSBOfMc7z_MTC9iIh-Nxb5WDsRQxapWKAonGZwoKeC5THxnq.F9pSUXTIF0p9oXmg?startTime=1740186606000"
             },
 
             {
                 "lecture_tag": "Lecture 20",
-                "lecture_title": "CI/CD and DevOps",
+                "lecture_title": "Quality Assurance and Automated Testing",
                 "slides_link": "",
-                "lecture_recording": ""
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/OJvAiFLlrYmgu3yRE4-FAlch8xjc_nBcwgULuLOD7QTNlSwRjb3VPyYBbEPr5sgg.sxykMh3MgSKwjWBZ?startTime=1740445825000"
             },
             {
                 "lecture_tag": "Lecture 21",
