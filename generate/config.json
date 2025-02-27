@@ -185,8 +185,8 @@
             {
                 "lecture_tag": "Lecture 21",
                 "lecture_title": "CI/CD and DevOps",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_21.pdf",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/jgv551AeYhiqOoLXd8UilE_lCqdXla94Cc_UQCbpguWgvRzKiGr7MVkIdzzRi2fw.rekBzahrIMvNMW3W?startTime=1740618615000"
             },
             {
                 "lecture_tag": "Lecture 22",
@@ -216,19 +216,19 @@
 
             {
                 "lecture_tag": "Lecture 26",
-                "lecture_title": "Guest Lecture / Office Hours",
+                "lecture_title": "Office Hours",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 27",
-                "lecture_title": "Guest Lecture / Office Hours",
+                "lecture_title": "Office Hours",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 28",
-                "lecture_title": "Guest Lecture / Office Hours",
+                "lecture_title": "Office Hours",
                 "slides_link": "",
                 "lecture_recording": ""
             }
