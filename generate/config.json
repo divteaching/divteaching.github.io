@@ -191,15 +191,15 @@
             {
                 "lecture_tag": "Lecture 22",
                 "lecture_title": "CI/CD and DevOps",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_22.pdf",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/PDbDVzXj0b_JZvhw4AoD18fbEnxAXNnxxseI5GWqpfJDTr1JLbqtDeb2ZaZg4S9c.BvvEWppA_Dxkhbf7?startTime=1740791419000"
             },
 
             {
                 "lecture_tag": "Lecture 23",
                 "lecture_title": "CI/CD and DevOps",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
+                "lecture_recording": "https://ucdavis.zoom.us/rec/share/sXlcNZKgtsUcoe3vzwOpMpbkqfmJBBcAYKBz7L00ot42Bbuf1Fm6I-AYezvYCxuu.j6vDs_jkqzumEH8J?startTime=1741050613000"
             },
             {
                 "lecture_tag": "Lecture 24",
