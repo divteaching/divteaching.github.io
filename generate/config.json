@@ -204,8 +204,8 @@
             {
                 "lecture_tag": "Lecture 24",
                 "lecture_title": "CI/CD and DevOps",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "https://github.com/divteaching/ecs198f_lecture24_inclass_coding",
+                "lecture_recording": "https://drive.google.com/file/d/13kZp9PF_2dzVWsqmnKMKc7k16Mwwopg4/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 25",
