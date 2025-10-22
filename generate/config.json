@@ -45,7 +45,7 @@
                 "lecture_tag": "Lecture 1",
                 "lecture_title": "Introduction",
                 "slides_link": "lecture_slides/ecs198f_lecture_1.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/hbvLrbdZGdDsOW_DnlOXjzAMl3dHuI0wZ7z0Es4AGYBFrEL37tF3OUUXrqW6-yvd.9Gy4QbVp0oEMsnhK?startTime=1736212202000"
+                "lecture_recording": "https://drive.google.com/file/d/12BnrK0C8YRfoMJgi1ZLQvnFplqVpa-u8/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 2",
@@ -57,26 +57,26 @@
                 "lecture_tag": "Lecture 3",
                 "lecture_title": "Unix and Developer Tools",
                 "slides_link": "lecture_slides/ecs198f_lecture_3.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/g16OVwI1sA8d8GOe67q84oVc2-fkvChkbssBPpAVBtWGr5zEfwgRW5S2wasBntNb.Uopge_nhRh3m7LkV?startTime=1736557827000"
+                "lecture_recording": "https://drive.google.com/file/d/1baEvy5L_f5HFBsx-9qSAdnbHknjJ54hS/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 4",
                 "lecture_title": "Unix and Developer Tools",
                 "slides_link": "lecture_slides/ecs198f_lecture_4.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/JD9aChmHPiRDTP9WxZFeI9ObVzwEnxUuyTw9s4FPWXMKJjjJeHaEk3DcFhDDGsKm.fv74K71Csvn-LaR0?startTime=1736817025000"
+                "lecture_recording": "https://drive.google.com/file/d/1AqXQ6YAO-SyWU6hGvH-Q--1prMR_sGJ4/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 5",
                 "lecture_title": "Containerization and Docker",
                 "slides_link": "lecture_slides/ecs198f_lecture_5.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/GCXKAE5klBBqAOb1jPgfgVZTfpsURUhgrULl0vYw0D-VsBasL57LyDdhbhFQWLQs.mfMK1T-qjcswcPB4?startTime=1736989813000"
+                "lecture_recording": "https://drive.google.com/file/d/1xwhu4jtOuOuO5cbr_RMuejjSfObgPM37/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 6",
                 "lecture_title": "Containerization and Docker",
                 "slides_link": "lecture_slides/ecs198f_lecture_6.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/JLmOcqAizFyWr5BubGyLMaOlUVmacqcSQ1dyGmyVwydn0QfGraQxgRlqD_En76Uu.1tXopnqy5iUfbpwx?startTime=1737162618000"
+                "lecture_recording": "https://drive.google.com/file/d/1PTRgmR6YgFd6K8S55O-2GMJqMWF0j-i6/view?usp=sharing"
             },
 
             {
@@ -96,58 +96,58 @@
                 "lecture_tag": "Lecture 8",
                 "lecture_title": "Containerization and Docker",
                 "slides_link": "lecture_slides/ecs198f_lecture_8.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/KrnH_thRT2b_KS2UfL9lrI4hxif2upAuk2R7QBJZT1PslbwhGlOJJkQAYzSV6XM1.cLnVzXEvTF4Xcgkk?startTime=1737767410000"
+                "lecture_recording": "https://drive.google.com/file/d/1-TZ15QlHUK9qN7dzWXp7rtRO25KQc3iX/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 9",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "lecture_slides/ecs198f_lecture_9.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/M91v3xaBNBwyLsCDNnFQVMrvaNJUX16jcjGMLgDShKLyKkzvdLndxEWY6Bf93gdp.l_svchdJoaNpIpWN?startTime=1738026599000"
+                "lecture_recording": "https://drive.google.com/file/d/10KknOZjEi1L-jdnwphbAHeOBZoNmIcn2/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 10",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "lecture_slides/ecs198f_lecture_10.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/ATHU1xE974u2VWaqAxMs1Cowrps6XN6bZGD36QatYRz5Gkr3k1uBEypdq5aEEWlz.mFXcKomUqiIoZA6W?startTime=1738199433000"
+                "lecture_recording": "https://drive.google.com/file/d/1BxtXIAJTptyADGbfqcwYSpAVL9BFE82R/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 11",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/2e71ae5620e29db9bfba9b425676d874b1419caf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/HgMmGE7yiha44Lq079QMK1FUVePI9QxWOpCut2JHXbEaheEyA_VgrdAUr-hylO7L.eXSxQ5ZU1zpncuAt?startTime=1738372271000"
+                "lecture_recording": "https://drive.google.com/file/d/1H3zeCkh4Z_xHpedv61tOfVSFWz1AsZMT/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 12",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/25d6df398e15d67cd05acc5b67622123ccdc4493",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/jpdA7nB9yYeDad59MagajDrsT-qLwtRAQw6uJY-ICCuG2QFYbAcTb3RFpeuFGeae.OZ8DeUKyNNf885pt?startTime=1738631367000"
+                "lecture_recording": "https://drive.google.com/file/d/1oFFb7sZQciFKzI-Do_0LhEQJ_RiPQIFI/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 13",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/b4837a6c1435ef5a6da99d9f71b95ebc961e5741",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/kVnnpb5JwPlJ-d6cp-dkDPzU_nV2DuYIyZkwfkVQUUKLLy_pP1zAwfi9jtzif8t_.ENmV_M1R9c5V51DI?startTime=1738804196000"
+                "lecture_recording": "https://drive.google.com/file/d/15u81V37_fGvVp45dHcpJABph03_KJb27/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 14",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/083cdfa8304c9bf905c61b93a2d7230d57333c63",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/6TPemqfxM55FEUf9hCVrt6LNOfclCS3FlMIXdbGjqK-9oV8GE7GE9dxrf3YXvD6S.sQsRWtiuiCVpky5y?startTime=1738977093000"
+                "lecture_recording": "https://drive.google.com/file/d/12voBhMjTWHpNXE5jOx2FW4LnJCv-0gtJ/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 15",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/mYKsGpHl_PlpeqwLR252lRPL4qFr9ptt-LbvgO8BzY1Ux64A1VHboMleGMlgw7dP.6fcQc8IJ1SXGMt5j?startTime=1739236242000"
+                "lecture_recording": "https://drive.google.com/file/d/1zNfIWOdyuRDqlxVvV0DhNn98sx3ebR7n/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 16",
                 "lecture_title": "Structured Design and Development",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/QjwzaNJgpVRXq94RoOpn4QkeNCzXNgA-qHVSkUiKPaKP9EMO9NUGfHyKXIxN5UPL.1AJFjHUQ5O36Xi9y?startTime=1739409012000"
+                "lecture_recording": "https://drive.google.com/file/d/1jChEHvU3CfK6CPZ-3CFuBQsN-Obttntx/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 17",
@@ -167,39 +167,39 @@
                 "lecture_tag": "Lecture 18",
                 "lecture_title": "Quality Assurance and Automated Testing",
                 "slides_link": "lecture_slides/ecs198f_lecture_18.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/vr7kvMljGoEcFhweKtX4KCwGCOTUfdbbN15Z5jrlSxmh4XOqol0Ngsg8dGlm6n5e.lK503pf5SiJT4cNX?startTime=1740013821000"
+                "lecture_recording": "https://drive.google.com/file/d/1ECTGvAW2xJmaHP59gHvsFz8-7FCgmSDD/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 19",
                 "lecture_title": "Quality Assurance and Automated Testing",
                 "slides_link": "",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/nWcGQzLW3xy6NND9VSBOfMc7z_MTC9iIh-Nxb5WDsRQxapWKAonGZwoKeC5THxnq.F9pSUXTIF0p9oXmg?startTime=1740186606000"
+                "lecture_recording": "https://drive.google.com/file/d/1eSaeMlMk-uRxQPlL8uOdr_kNS1Pvnm-u/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 20",
                 "lecture_title": "Quality Assurance and Automated Testing",
                 "slides_link": "",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/OJvAiFLlrYmgu3yRE4-FAlch8xjc_nBcwgULuLOD7QTNlSwRjb3VPyYBbEPr5sgg.sxykMh3MgSKwjWBZ?startTime=1740445825000"
+                "lecture_recording": "https://drive.google.com/file/d/1Dr0jlCpCqLSsiPEwVBY9rjpKDAiOWE1L/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 21",
                 "lecture_title": "CI/CD and DevOps",
                 "slides_link": "lecture_slides/ecs198f_lecture_21.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/jgv551AeYhiqOoLXd8UilE_lCqdXla94Cc_UQCbpguWgvRzKiGr7MVkIdzzRi2fw.rekBzahrIMvNMW3W?startTime=1740618615000"
+                "lecture_recording": "https://drive.google.com/file/d/1xiu0SHb7eSHipY3rx4kZp8Nhkjf_1s8z/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 22",
                 "lecture_title": "CI/CD and DevOps",
                 "slides_link": "lecture_slides/ecs198f_lecture_22.pdf",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/PDbDVzXj0b_JZvhw4AoD18fbEnxAXNnxxseI5GWqpfJDTr1JLbqtDeb2ZaZg4S9c.BvvEWppA_Dxkhbf7?startTime=1740791419000"
+                "lecture_recording": "https://drive.google.com/file/d/1wM6K8khczaAQDpA01kc5mOrZecEpQ7R6/view?usp=sharing"
             },
 
             {
                 "lecture_tag": "Lecture 23",
                 "lecture_title": "CI/CD and DevOps",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/sXlcNZKgtsUcoe3vzwOpMpbkqfmJBBcAYKBz7L00ot42Bbuf1Fm6I-AYezvYCxuu.j6vDs_jkqzumEH8J?startTime=1741050613000"
+                "lecture_recording": "https://drive.google.com/file/d/1l1ga2vCEdRGzQfHjAihTW9akogH58Fmx/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 24",
@@ -211,7 +211,7 @@
                 "lecture_tag": "Lecture 25",
                 "lecture_title": "CI/CD and DevOps",
                 "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://ucdavis.zoom.us/rec/share/GwgvI-i8BM8HMssiOTzPVAklk7DXyQZD8q2ZRVbSFjSZ-k_5lYr29WhgfcE6lFo.8yI9ThpJiWQUB6Uj?startTime=1741396181000"
+                "lecture_recording": "https://drive.google.com/file/d/1fW29s4LtJ6_BWiDfWL2W7cKXyaVodhbj/view?usp=sharing"
             },
 
             {
