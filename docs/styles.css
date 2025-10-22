@@ -10,12 +10,17 @@ body {
 header {
     background: #0073e6;
     color: #fff;
-    padding: 10px 20px;
+    padding: 20px 20px 30px;
     text-align: center;
 }
 
 header h1 {
     margin: 0;
+    font-size: 2em;
+}
+
+header p {
+    margin: 5px 0;
 }
 
 section {
@@ -75,3 +80,4 @@ footer {
     color: #fff;
     margin-top: 20px;
 }
+
