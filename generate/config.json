@@ -11,31 +11,31 @@
         "year_offered": "2025",
         "instructor": "Divyansh Rajesh Jain, advised by Professor Siena Saltzen",
         "instructor_email": "drajeshjain@ucdavis.edu",
-        "instructor_office_hours": "Wednesday 6 - 7 PM, Kemper 75 (Prof. Saltzen SLAC Nights)",
+        "instructor_office_hours": "TBA",
         "syllabus_path": "syllabus/Syllabus.pdf",
-        "discord_link": "https://discord.gg/mZvpete3",
+        "discord_link": "https://discord.gg/h7rSEdpy",
         "assignments": [
             {
                 "title": "Homework 1",
-                "due_date": "01/19/2025 11:59 PM",
+                "due_date": "01/16/2025 11:59 PM",
                 "description_link": "assignments/hw1/hw1.pdf",
                 "github_repo_link": "https://github.com/divteaching/ecs198f_hw1_template"
             },
             {
                 "title": "Homework 2",
-                "due_date": "02/02/2025 11:59 PM",
+                "due_date": "01/30/2025 11:59 PM",
                 "description_link": "assignments/hw2/hw2.pdf",
                 "github_repo_link": "https://github.com/divteaching/ecs198f_hw2_template"
             },
             {
                 "title": "Homework 3",
-                "due_date": "03/02/2025 11:59 PM",
+                "due_date": "02/27/2025 11:59 PM",
                 "description_link": "assignments/hw3/hw3.pdf",
                 "github_repo_link": "https://github.com/divteaching/ecs198f_hw3_template"
             },
             {
                 "title": "Final Group Project",
-                "due_date": "03/21/2025 11:59 PM",
+                "due_date": "03/20/2025 11:59 PM",
                 "description_link": "assignments/final_project/final_project.pdf",
                 "github_repo_link": "https://github.com/divteaching/ecs198f_final_project_template/"
             }
@@ -43,42 +43,29 @@
         "schedule": [
             {
                 "lecture_tag": "Lecture 1",
-                "lecture_title": "Introduction",
-                "slides_link": "lecture_slides/ecs198f_lecture_1.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/12BnrK0C8YRfoMJgi1ZLQvnFplqVpa-u8/view?usp=sharing"
+                "lecture_title": "Introduction / Unix and Developer Tools",
+                "slides_link": "",
+                "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 2",
                 "lecture_title": "Unix and Developer Tools",
-                "slides_link": "lecture_slides/ecs198f_lecture_2.pdf",
+                "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 3",
                 "lecture_title": "Unix and Developer Tools",
-                "slides_link": "lecture_slides/ecs198f_lecture_3.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1baEvy5L_f5HFBsx-9qSAdnbHknjJ54hS/view?usp=sharing"
+                "slides_link": "",
+                "lecture_recording": ""
             },
 
             {
                 "lecture_tag": "Lecture 4",
-                "lecture_title": "Unix and Developer Tools",
-                "slides_link": "lecture_slides/ecs198f_lecture_4.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1AqXQ6YAO-SyWU6hGvH-Q--1prMR_sGJ4/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 5",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "lecture_slides/ecs198f_lecture_5.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1xwhu4jtOuOuO5cbr_RMuejjSfObgPM37/view?usp=sharing"
+                "slides_link": "",
+                "lecture_recording": ""
             },
-            {
-                "lecture_tag": "Lecture 6",
-                "lecture_title": "Containerization and Docker",
-                "slides_link": "lecture_slides/ecs198f_lecture_6.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1PTRgmR6YgFd6K8S55O-2GMJqMWF0j-i6/view?usp=sharing"
-            },
-
             {
                 "lecture_tag": "Holiday",
                 "lecture_title": "Martin Luther King, Jr.",
@@ -87,75 +74,48 @@
                 "is_holiday": true
             },
             {
+                "lecture_tag": "Lecture 5",
+                "lecture_title": "Containerization and Docker",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 6",
+                "lecture_title": "Containerization and Docker",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
                 "lecture_tag": "Lecture 7",
-                "lecture_title": "No Class",
+                "lecture_title": "Containerization and Docker",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 8",
-                "lecture_title": "Containerization and Docker",
-                "slides_link": "lecture_slides/ecs198f_lecture_8.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1-TZ15QlHUK9qN7dzWXp7rtRO25KQc3iX/view?usp=sharing"
+                "lecture_title": "Structured Design and Development",
+                "slides_link": "",
+                "lecture_recording": ""
             },
 
             {
                 "lecture_tag": "Lecture 9",
                 "lecture_title": "Structured Design and Development",
-                "slides_link": "lecture_slides/ecs198f_lecture_9.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/10KknOZjEi1L-jdnwphbAHeOBZoNmIcn2/view?usp=sharing"
+                "slides_link": "",
+                "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 10",
                 "lecture_title": "Structured Design and Development",
-                "slides_link": "lecture_slides/ecs198f_lecture_10.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1BxtXIAJTptyADGbfqcwYSpAVL9BFE82R/view?usp=sharing"
+                "slides_link": "",
+                "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 11",
                 "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/2e71ae5620e29db9bfba9b425676d874b1419caf",
-                "lecture_recording": "https://drive.google.com/file/d/1H3zeCkh4Z_xHpedv61tOfVSFWz1AsZMT/view?usp=sharing"
-            },
-
-            {
-                "lecture_tag": "Lecture 12",
-                "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/25d6df398e15d67cd05acc5b67622123ccdc4493",
-                "lecture_recording": "https://drive.google.com/file/d/1oFFb7sZQciFKzI-Do_0LhEQJ_RiPQIFI/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 13",
-                "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/b4837a6c1435ef5a6da99d9f71b95ebc961e5741",
-                "lecture_recording": "https://drive.google.com/file/d/15u81V37_fGvVp45dHcpJABph03_KJb27/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 14",
-                "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker/tree/083cdfa8304c9bf905c61b93a2d7230d57333c63",
-                "lecture_recording": "https://drive.google.com/file/d/12voBhMjTWHpNXE5jOx2FW4LnJCv-0gtJ/view?usp=sharing"
-            },
-
-            {
-                "lecture_tag": "Lecture 15",
-                "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://drive.google.com/file/d/1zNfIWOdyuRDqlxVvV0DhNn98sx3ebR7n/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 16",
-                "lecture_title": "Structured Design and Development",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://drive.google.com/file/d/1jChEHvU3CfK6CPZ-3CFuBQsN-Obttntx/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 17",
-                "lecture_title": "No Class",
                 "slides_link": "",
                 "lecture_recording": ""
             },
-
             {
                 "lecture_tag": "Holiday",
                 "lecture_title": "President's Day",
@@ -164,71 +124,47 @@
                 "is_holiday": true
             },
             {
+                "lecture_tag": "Lecture 12",
+                "lecture_title": "Quality Assurance and Automated Testing",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 13",
+                "lecture_title": "Quality Assurance and Automated Testing",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 14",
+                "lecture_title": "Quality Assurance and Automated Testing",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+
+            {
+                "lecture_tag": "Lecture 15",
+                "lecture_title": "CI/CD and DevOps",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 16",
+                "lecture_title": "CI/CD and DevOps",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+            {
+                "lecture_tag": "Lecture 17",
+                "lecture_title": "Intro to AI Agents",
+                "slides_link": "",
+                "lecture_recording": ""
+            },
+
+            
+            {
                 "lecture_tag": "Lecture 18",
-                "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "lecture_slides/ecs198f_lecture_18.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1ECTGvAW2xJmaHP59gHvsFz8-7FCgmSDD/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 19",
-                "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": "https://drive.google.com/file/d/1eSaeMlMk-uRxQPlL8uOdr_kNS1Pvnm-u/view?usp=sharing"
-            },
-
-            {
-                "lecture_tag": "Lecture 20",
-                "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": "https://drive.google.com/file/d/1Dr0jlCpCqLSsiPEwVBY9rjpKDAiOWE1L/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 21",
-                "lecture_title": "CI/CD and DevOps",
-                "slides_link": "lecture_slides/ecs198f_lecture_21.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1xiu0SHb7eSHipY3rx4kZp8Nhkjf_1s8z/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 22",
-                "lecture_title": "CI/CD and DevOps",
-                "slides_link": "lecture_slides/ecs198f_lecture_22.pdf",
-                "lecture_recording": "https://drive.google.com/file/d/1wM6K8khczaAQDpA01kc5mOrZecEpQ7R6/view?usp=sharing"
-            },
-
-            {
-                "lecture_tag": "Lecture 23",
-                "lecture_title": "CI/CD and DevOps",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://drive.google.com/file/d/1l1ga2vCEdRGzQfHjAihTW9akogH58Fmx/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 24",
-                "lecture_title": "CI/CD and DevOps",
-                "slides_link": "https://github.com/divteaching/ecs198f_lecture24_inclass_coding",
-                "lecture_recording": "https://drive.google.com/file/d/13kZp9PF_2dzVWsqmnKMKc7k16Mwwopg4/view?usp=sharing"
-            },
-            {
-                "lecture_tag": "Lecture 25",
-                "lecture_title": "CI/CD and DevOps",
-                "slides_link": "https://github.com/divteaching/ecs198f_inclass_poker",
-                "lecture_recording": "https://drive.google.com/file/d/1fW29s4LtJ6_BWiDfWL2W7cKXyaVodhbj/view?usp=sharing"
-            },
-
-            {
-                "lecture_tag": "Lecture 26",
-                "lecture_title": "Office Hours",
-                "slides_link": "",
-                "lecture_recording": ""
-            },
-            {
-                "lecture_tag": "Lecture 27",
-                "lecture_title": "Office Hours",
-                "slides_link": "",
-                "lecture_recording": ""
-            },
-            {
-                "lecture_tag": "Lecture 28",
-                "lecture_title": "Office Hours",
+                "lecture_title": "Intro to AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             }

@@ -81,8 +81,8 @@
                 {% set curr_week = namespace(value=1) %}
                 {% for curr_lecture in course.schedule %}
                     <tr>
-                        {% if loop.index0 % 3 == 0 %}
-                            <td rowspan="3">{{ curr_week.value }}</td>
+                        {% if loop.index0 % 2 == 0 %}
+                            <td rowspan="2">{{ curr_week.value }}</td>
                             {% set curr_week.value = curr_week.value + 1 %}
                         {% endif %}
                         <td>{{ curr_lecture.lecture_tag }}</td>
