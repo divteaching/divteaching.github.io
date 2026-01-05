@@ -44,8 +44,8 @@
             {
                 "lecture_tag": "Lecture 1",
                 "lecture_title": "Introduction / Unix and Developer Tools",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_1.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/1BiWYDqLHUNfqXyVhAm-ARWpHD7t3kj4X/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 2",
