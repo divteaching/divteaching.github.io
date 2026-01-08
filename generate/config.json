@@ -50,8 +50,8 @@
             {
                 "lecture_tag": "Lecture 2",
                 "lecture_title": "Unix and Developer Tools",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_2.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/1S0X1pCKlPkUsbhe3Rf_nFOnzhGgYu7Om/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 3",
