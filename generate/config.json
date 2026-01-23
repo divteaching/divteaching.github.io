@@ -76,8 +76,8 @@
             {
                 "lecture_tag": "Lecture 5",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_4.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/1iK9H38FRc5K50EMTDgeFS95_3uMeHXfC/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 6",
