@@ -76,20 +76,20 @@
             {
                 "lecture_tag": "Lecture 5",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "lecture_slides/ecs198f_lecture_4.pdf",
+                "slides_link": "lecture_slides/ecs198f_lecture_5.pdf",
                 "lecture_recording": "https://drive.google.com/file/d/1iK9H38FRc5K50EMTDgeFS95_3uMeHXfC/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 6",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_6.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/11pA_T9NlB8zbqLuYoJXHGfa22vbe8NUE/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 7",
                 "lecture_title": "Containerization and Docker",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_7.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/1g18BYqRt1iEf2gUsA5b9f5QOY4-zZIme/view?usp=sharing"
             },
             {
                 "lecture_tag": "Lecture 8",
