@@ -113,8 +113,8 @@
             {
                 "lecture_tag": "Lecture 11",
                 "lecture_title": "Quality Assurance and Automated Testing",
-                "slides_link": "",
-                "lecture_recording": ""
+                "slides_link": "lecture_slides/ecs198f_lecture_11.pdf",
+                "lecture_recording": "https://drive.google.com/file/d/1NaBY3fF8lt2yKMPzjfWzGRZawoFWnbMu/view?usp=sharing"
             },
             {
                 "lecture_tag": "Holiday",
@@ -125,38 +125,39 @@
             },
             {
                 "lecture_tag": "Lecture 12",
-                "lecture_title": "Quality Assurance and Automated Testing",
+                "lecture_title": "No Class",
                 "slides_link": "",
-                "lecture_recording": ""
+                "lecture_recording": "",
+                "is_holiday": true
             },
             {
                 "lecture_tag": "Lecture 13",
-                "lecture_title": "Quality Assurance and Automated Testing",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 14",
-                "lecture_title": "Quality Assurance and Automated Testing",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             },
 
             {
                 "lecture_tag": "Lecture 15",
-                "lecture_title": "CI/CD and DevOps",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 16",
-                "lecture_title": "CI/CD and DevOps",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             },
             {
                 "lecture_tag": "Lecture 17",
-                "lecture_title": "Intro to AI Agents",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             },
@@ -164,7 +165,7 @@
             
             {
                 "lecture_tag": "Lecture 18",
-                "lecture_title": "Intro to AI Agents",
+                "lecture_title": "AI Agents",
                 "slides_link": "",
                 "lecture_recording": ""
             }
